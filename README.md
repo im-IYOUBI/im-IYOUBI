@@ -25,7 +25,7 @@ Amine IYOU⛓️BI | Full Stack Developer from Agadir, Morocco
   - Frontend: React.js | Vue.js | HTML5 | CSS3 | JavaScript
   - Backend: Laravel | PHP | Node.js
   - DB: MySQL | MongoDB | SQLite
-  - Tools: Git | GitHub | VS Code | Figma | Trello | Slack
+  - Tools: Git | GitHub | VS Code | Figma | 
 ```
 
 ---
